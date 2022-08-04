@@ -1,0 +1,6 @@
+---
+# tasks file for rolec
+- name: Log from C
+  debug:
+    msg: "Logging a message from Role C in Collection C"
+
